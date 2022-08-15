@@ -4,4 +4,4 @@
 **Semestre**: Final  
 **Asignatura**: Diseño de Aplicaciones Web  
 **Profesor**: Celina Robles Montiel  
-######Markdown: Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple  
+**Markdown**: Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple  
